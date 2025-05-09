@@ -16,4 +16,4 @@ The game also allows the player to quit at any time by entering q.
 - Python 3.10.12
 
 ### Installation Steps
-```https://github.com/Simn-popo/Pierre-Papier-Ciseaux.git
+``` https://github.com/Simn-popo/Pierre-Papier-Ciseaux.git
