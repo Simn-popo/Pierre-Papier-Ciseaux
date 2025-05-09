@@ -9,4 +9,11 @@ Rock, Paper, Scissors is a classic game where a player competes against the comp
 
 - Paper beats Rock
 
-The game also allows the player to quit at any time by entering q. The score is tracked throughout the game, and the result is displayed after each round.
+The game also allows the player to quit at any time by entering q.
+
+## Instalation
+### Prerequisites
+- Python 3.10.12
+
+###Installation Steps
+```kgkg
