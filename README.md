@@ -1,4 +1,4 @@
-# Pierre-Papier-Ciseaux in Python
+# ROCK-PAPER-SCISSORS in Python
 # Description
 
 Rock, Paper, Scissors is a classic game where a player competes against the computer. The player can choose between three options: rock, paper, or scissors. The computer also randomly selects one of these options, and the two choices are compared to determine the winner based on traditional rules:
