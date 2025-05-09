@@ -11,9 +11,9 @@ Rock, Paper, Scissors is a classic game where a player competes against the comp
 
 The game also allows the player to quit at any time by entering q.
 
-## Instalation
+## Installation
 ### Prerequisites
 - Python 3.10.12
 
-###Installation Steps
-```kgkg
+### Installation Steps
+```https://github.com/Simn-popo/Pierre-Papier-Ciseaux.git
